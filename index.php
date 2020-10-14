@@ -4,32 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Mon premier site</title>
-        <style>
-            * {
-            -webkit-box-sizing: border-box;
-                -moz-box-sizing: border-box;
-                    box-sizing: border-box;
-            }
-            .flex-container {
-                display: flex;
-                flex-direction: row;
-            }
-            div.flex-container {
-                justify-content: center;
-            }
-            .bloc {
-                background-color: #f1f1f1;
-                margin: 30px;
-                padding: 100px;
-            }
-            header div {
-                margin: auto 30px auto 30px;
-            }
-            a {
-                text-decoration: none;
-                color: black;
-            }
-    </style>
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/script.js" type="text/javascript"></script>
     </head>
     <body>
         <header class="flex-container">
