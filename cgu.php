@@ -13,5 +13,10 @@
             <div><a href="http://localhost/monpremiersite/">Accueil</a></div>
             <div><a href="http://localhost/monpremiersite/cgu.php">CGU</a></div>
         </header>
+        <main>
+            <div>
+                <p>CGU</p>
+            </div>
+        </main>
     </body>
 </html>
