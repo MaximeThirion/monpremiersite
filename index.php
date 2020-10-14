@@ -9,7 +9,7 @@
     </head>
     <body>
         <header class="flex-container">
-            <div>Logo</div>
+            <div><img src="images/logo.png" alt="Logo" id="logo"></div>
             <div><a href="http://localhost/monpremiersite/">Accueil</a></div>
             <div><a href="http://localhost/monpremiersite/cgu.php">CGU</a></div>
         </header>
